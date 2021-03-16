@@ -70,7 +70,7 @@ function printAsNumberedList(items) {
 
 // Return an array of numbers in a certain range.
 //
-// Ex.:
+// Ex.:[]
 // > getRange(0, 5);
 // [0, 1, 2, 3, 4]
 //
